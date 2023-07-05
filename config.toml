@@ -1,4 +1,4 @@
-baseurl = "https://oombagus.github.io/"
+baseurl = "/"
 DefaultContentLanguage = "en"
 title = "Dakwah Tauhid"
 theme = "beautifulhugo"
