@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://dakwahtauhid.vercel.app/"
 DefaultContentLanguage = "en"
 title = "Dakwah Tauhid"
 theme = "beautifulhugo"
