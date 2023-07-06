@@ -13,7 +13,8 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "ﻭَﻣَﺎ ﺧَﻠَﻘْﺖُ ﺍﻟْﺠِﻦَّ ﻭَﺍْﻹِﻧْﺲَ ﺇِﻻَّ ﻟِﻴَﻌْﺒُﺪُﻭﻥ"
+  subsubtitle = "’’Dan tidaklah Aku ciptakan jin dan manusia kecuali untuk beribadah kepadaKu’’. (Surat AdzDzariyaat 56)"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon-dt.png" # Expecting square dimensions
   favicon = "img/favicon-dt.ico"
